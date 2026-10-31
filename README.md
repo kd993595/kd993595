@@ -55,14 +55,6 @@ I like understanding how systems work from the inside, especially databases. I'v
 - YOLO-based animal detection for collision avoidance
 - Storage and analytics service for sensor data
 
-## 🎯 The Problems I Like
-
-- Building **data systems** that are correct, concurrent, and fast
-- Finding where time is actually going in slow code, then fixing it
-- Making complex infrastructure **simple to use** through clean interfaces and APIs
-- Connecting **databases and AI**, such as structured knowledge that makes model outputs more grounded
-- Autonomous systems that sense, decide, and act in the real world
-
 ## 🌱 Goals
 
 - Go deeper into **database internals and distributed systems**: transaction processing, storage engines, and replication
